@@ -1,0 +1,29 @@
+NOTICE — third-party and brand assets
+=====================================
+
+The MIT license in LICENSE covers the code in this repository (the scripts,
+documentation, and layout geometry). It does NOT grant rights to the brand
+assets bundled in assets/, which remain the property of their owners.
+
+assets/Claude-Spark-Logo.svg
+    The Claude spark mark. Trademark of Anthropic PBC. Included here for use
+    by Claude Community Ambassadors producing materials for Claude community
+    events. Do not modify the mark itself, and do not use it to imply
+    endorsement by or affiliation with Anthropic. Recolor via --accent or omit
+    it entirely via --no-logo.
+
+assets/Copernicus-Medium.woff2
+    Copernicus, the Anthropic display serif. A licensed commercial typeface,
+    not open source. Included for Claude community event materials. It is not
+    licensed for redistribution or for use in unrelated projects. For any
+    non-Claude event, client work, or general use, run with --font lora
+    instead.
+
+assets/Lora-var.ttf
+    Lora, by Cyreal. SIL Open Font License 1.1.
+    https://github.com/cyrealtype/Lora-Cyrillic
+    Freely usable and redistributable under the OFL.
+
+This repository is maintained by the Claude Community Ambassadors and is not
+an official Anthropic project. If you are an asset owner and want something
+removed, open an issue and it will be taken down.
